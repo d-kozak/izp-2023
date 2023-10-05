@@ -7,6 +7,8 @@
     * druhak i behem cviceni 
         je jednodussi odpovedet na otazku, pripadne me navigovat pri implementaci, nez pak sam implementovat zaverecny ukol
     * doporucuji byt aktivni a hlasit se :)
+* Visual Studio Code
+    * Extensions
 
 # Promenne, datove typy
 * int, char, double
@@ -49,4 +51,3 @@ int pole[4] = {3,7,11,13}; int i = 2; pole[i] = pole[i-1];
 * Uloha - nacist 5 cisel a vypsat v opacnem poradi
 * Uloha - nacist 5 cisel do pole a najit jejich maximum
 * Uloha - nacist staticky pocet cisel (znamy v dobe prekladu) a vypsat sumu/aritmeticky prumer
-
