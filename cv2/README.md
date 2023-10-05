@@ -12,7 +12,9 @@
         * Code runner
             * Settings - code runner - Run in Terminal
         * Remote SSH
+            * f1 + vyhledavejte "connect to host"
             * login@merlin.fit.vutbr.cz
+            * otevrete vas domovsky adresar
             * [Tutorial](https://code.visualstudio.com/docs/remote/ssh#_installation)
 
 # Promenne, datove typy
