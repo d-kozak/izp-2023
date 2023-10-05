@@ -12,6 +12,7 @@
         * Code runner
             * Settings - code runner - Run in Terminal
         * Remote SSH
+            * login@merlin.fit.vutbr.cz
             * [Tutorial](https://code.visualstudio.com/docs/remote/ssh#_installation)
 
 # Promenne, datove typy
