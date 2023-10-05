@@ -10,9 +10,11 @@
 * Visual Studio Code
     * Extensions
         * Code runner
-            * Settings - code runner - Run in Terminal
+            * File -> Preferences -> Settings - code runner - Run in Terminal
         * Remote SSH
             * f1 + vyhledavejte "connect to host"
+            * operating system - linux
+            * password - stejne jako pri prihlasovani na PC
             * login@merlin.fit.vutbr.cz
             * otevrete vas domovsky adresar
             * [Tutorial](https://code.visualstudio.com/docs/remote/ssh#_installation)
