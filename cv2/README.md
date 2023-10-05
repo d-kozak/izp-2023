@@ -16,10 +16,24 @@
     * Rozsah hodnot?
     * printf 
     * scanf
+```c
+int x;
+scanf("%d",&x);
+printf("%d",x);
+
+char c;
+scanf("%c",&c);
+printf("%c",c);
+
+double x;
+scanf("%lf",&x);
+printf("%f",x);
+```
 * Uloha - kvadraticka rovnice
     * zjistit pocet reseni
     * vypsat je
 * Uloha - nacist znak a zjistit, jestli se jedna o pismeno
+    * [ASCII tabulka](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/2560px-ASCII-Table-wide.svg.png)
 
 # Prace s cyckly
 ```c
@@ -28,7 +42,7 @@ for (int i = 0; i < 10; i++) {
 }
 ```
 
-* Uloha - Nacist tri cisla a pro kazde 
+* Uloha - Nacist tri cisla a pro kazde urcit, zda je sude
     * Nacist 100 cisel
     * Nacist volitelny pocet cisel
 * Uloha - vypocet faktorialu
