@@ -9,6 +9,8 @@
     * doporucuji byt aktivni a hlasit se :)
 * Visual Studio Code
     * Extensions
+        * C/C++ support
+            * Nabidne se samo pri editaci prvniho .c souboru
         * Code runner
             * File -> Preferences -> Settings - code runner - Run in Terminal
         * Remote SSH
