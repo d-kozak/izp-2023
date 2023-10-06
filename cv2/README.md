@@ -72,7 +72,9 @@ pole[3] = pole[1] * 2;
 ```
 
 ```c
-int pole[4] = {3,7,11,13}; int i = 2; pole[i] = pole[i-1];
+int pole[4] = {3,7,11,13}; 
+int i = 2; 
+pole[i] = pole[i-1];
 ```
 * Uloha - nacist 5 cisel a vypsat v opacnem poradi
 * Uloha - nacist 5 cisel do pole a najit jejich maximum
