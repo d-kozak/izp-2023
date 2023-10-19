@@ -9,6 +9,8 @@
     * doporucuji byt aktivni a hlasit se :)
 * Visual Studio Code
     * Extensions
+        * C/C++ support
+            * Nabidne se samo pri editaci prvniho .c souboru
         * Code runner
             * File -> Preferences -> Settings - Code Runner - Run in Terminal
         * Remote SSH
@@ -77,7 +79,9 @@ pole[3] = pole[1] * 2;
 ```
 
 ```c
-int pole[4] = {3,7,11,13}; int i = 2; pole[i] = pole[i-1];
+int pole[4] = {3,7,11,13}; 
+int i = 2; 
+pole[i] = pole[i-1];
 ```
 * Uloha - nacist 5 cisel a vypsat v opacnem poradi
 * Uloha - nacist 5 cisel do pole a najit jejich maximum
