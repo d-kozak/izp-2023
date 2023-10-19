@@ -10,7 +10,7 @@
 * Visual Studio Code
     * Extensions
         * Code runner
-            * File -> Preferences -> Settings - code runner - Run in Terminal
+            * File -> Preferences -> Settings - Code Runner - Run in Terminal
         * Remote SSH
             * f1 + vyhledavejte "connect to host"
             * operating system - linux
