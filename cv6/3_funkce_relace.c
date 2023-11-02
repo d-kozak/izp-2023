@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 #define MAX_SET_SIZE 10
 typedef struct {
     int items[MAX_SET_SIZE];
@@ -17,3 +20,8 @@ int rel_minmax(pair_t rel[5], set_t set, pair_t *min, pair_t *max);
 Implementujte funkci, která provede inverzi bodu (zamění hodnoty ve dvojici):
 */
 void pair_invert(pair_t *point);
+
+
+int main() {
+
+}

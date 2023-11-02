@@ -9,7 +9,7 @@
 # Predavani parametru odkazem
 * Vytvořte funkci, která zamění hodnoty dvou proměnných deklarované mimo funkci.
 * Vytvořte funkci, která zvýší hodnotu parametru předaného odkazem o jedna.
-* Vytvořte funkci, která vrací více výsledků:
+* Vytvořte funkci, která vrací více výsledků.
 
 # Relace jako funkce
 * Definujte datový typ pro dvojici čísel (pair_t). Nechť pole dvojic reprezentuje relaci nad množinami čísel. Množina:

@@ -1,4 +1,7 @@
-int div(int dividend, int divisor, double *quotient)
+#include <stdio.h>
+#include <stdlib.h>
+
+int my_div(int dividend, int divisor, double *quotient)
 {
     // TODO:
     // Funkce do quotient uloží reálné číslo podílu divident a divisor.
@@ -8,7 +11,7 @@ int main() {
     int dividend, divisor;
     double quotient;
     scanf("%d %d", &dividend, &divisor);
-    if (!div(dividend, divisor, &quotient))
+    if (!my_div(dividend, divisor, &quotient))
     {
         printf("Division by zero!\n");
         return 1;
