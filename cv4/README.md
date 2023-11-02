@@ -1,3 +1,6 @@
+# Project
+* 30.10. 8:00 rano
+* Odevzdavejte radsi s rezervou
 # Programovaci konvence
 * odradkovani
 * pojmenovavani identifikatoru
