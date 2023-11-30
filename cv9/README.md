@@ -1,5 +1,9 @@
 # Informace k projektu
+* 14 bodu celkem
+    * 7 automaticke testy
+    * 7 bodu obhajoba
 * obhajoba pristi tyden v case cviceni
+* forma obhajoby
 * checklist pred odevzdanim
 - [ ] Lze vas projekt prelozit na merlinovi?
 - [ ] Spustte testovaci script.
