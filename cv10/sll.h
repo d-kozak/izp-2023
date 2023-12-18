@@ -76,4 +76,9 @@ Item *list_find_name(List *list, char *name);
  */
 void list_dtor(List *list);
 
+/**
+ * Vytiskne obsah seznamu.
+ */
+void list_print(List *list);
+
 #endif

@@ -13,7 +13,7 @@ int main()
  
     printf("list_empty...\n");
     printf("Seznam prazdny: %s\n", list_empty(&list) ? "ano" : "ne");
- 
+    list_print(&list);
     Item *item;
  
     Object o1 = {42, "Honza"};
@@ -21,6 +21,8 @@ int main()
     item = item_ctor(o1);
     printf("list_insert_first...\n");
     list_insert_first(&list, item);
+
+    list_print(&list);
  
     printf("Seznam prazdny: %s\n", list_empty(&list) ? "ano" : "ne");
     printf("list_count...\n");
@@ -30,11 +32,15 @@ int main()
     item = item_ctor(o2);
     printf("list_insert_first...\n");
     list_insert_first(&list, item);
+
+    list_print(&list);
  
     Object o3 = {0, "Kralem"};
     item = item_ctor(o3);
     printf("list_insert_first...\n");
     list_insert_first(&list, item);
+
+    list_print(&list);
  
     printf("Pocet prvku v seznamu: %d\n", list_count(&list));
  
@@ -43,10 +49,14 @@ int main()
     printf("Pocet prvku v seznamu: %d\n", list_count(&list));
  
  
+    list_print(&list);
+
     // opetovne vlozeni objektu o1		
     item = item_ctor(o1);
     printf("list_insert_first...\n");
     list_insert_first(&list, item);
+
+    list_print(&list);
  
     printf("list_find_minid...\n");
     item = list_find_minid(&list);
